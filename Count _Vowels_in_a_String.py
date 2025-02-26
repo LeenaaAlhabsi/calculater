@@ -18,6 +18,7 @@ for char in input_string1: #loop to count the vowels in the input string
         vowels_count += 1 #increment the count of vowels
 
 print(f"\nThe number of vowels in {input_string} is {vowels_count}.") #the result of the program
-print("\nGoodbye!") #end of the program
+print("\n nice job!") #end of the program
+print("Goodbye!") #end of the program
 
 
