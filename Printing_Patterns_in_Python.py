@@ -37,5 +37,3 @@ else:
     print("Thank you for using the Pattern Printer")
 #end of program
 print("\nThank you for using the Pattern Printer")
-
-
